@@ -1433,6 +1433,7 @@
 "ax17eq" is used by "dveeq1ALT".
 "ax17eq" is used by "dveeq2ALT".
 "ax17eq" is used by "hbsoENF".
+"ax1rid" is used by "unitdivcld".
 "ax4" is used by "a9e2eqVD".
 "ax4" is used by "a9e2ndeq".
 "ax4" is used by "a9e2ndeqALT".
@@ -1502,6 +1503,7 @@
 "axrep4ENF" is used by "axrep5ENF".
 "axrep5ENF" is used by "zfrepclfENF".
 "axresscn" is used by "ax1cn".
+"axresscn" is used by "unitsscn".
 "bafval" is used by "cnnvba".
 "bafval" is used by "hhba".
 "bafval" is used by "hhshsslem1".
@@ -15791,7 +15793,7 @@ New usage of "ax17el" is discouraged (5 uses).
 New usage of "ax17eq" is discouraged (3 uses).
 New usage of "ax1cn" is discouraged (0 uses).
 New usage of "ax1ne0" is discouraged (0 uses).
-New usage of "ax1rid" is discouraged (0 uses).
+New usage of "ax1rid" is discouraged (1 uses).
 New usage of "ax2" is discouraged (0 uses).
 New usage of "ax3" is discouraged (0 uses).
 New usage of "ax4" is discouraged (7 uses).
@@ -15866,7 +15868,7 @@ New usage of "axpre-mulgt0" is discouraged (0 uses).
 New usage of "axpre-sup" is discouraged (0 uses).
 New usage of "axrep4ENF" is discouraged (1 uses).
 New usage of "axrep5ENF" is discouraged (1 uses).
-New usage of "axresscn" is discouraged (1 uses).
+New usage of "axresscn" is discouraged (2 uses).
 New usage of "axrnegex" is discouraged (0 uses).
 New usage of "axrrecex" is discouraged (0 uses).
 New usage of "axsep" is discouraged (0 uses).
