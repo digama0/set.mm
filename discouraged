@@ -1378,8 +1378,7 @@
 "ax17eq" is used by "dveeq1ALT".
 "ax17eq" is used by "dveeq2ALT".
 "ax17eq" is used by "hbsoENF".
-"ax1cn" is used by "cvxpcon".
-"ax1ne0" is used by "psgnunilem4".
+"ax1cn" is used by "logrec".
 "ax4" is used by "a9e2eqVD".
 "ax4" is used by "a9e2ndeq".
 "ax4" is used by "a9e2ndeqALT".
@@ -5601,6 +5600,8 @@
 "ela" is used by "elatcv0".
 "elabgfENF" is used by "elab3gfENF".
 "elabgfENF" is used by "elrabfENF".
+"elabs2OLD" is used by "elabsbcOLD".
+"elabs2OLD" is used by "elabsgOLD".
 "elat2" is used by "atne0".
 "elat2" is used by "atom1d".
 "elat2" is used by "atss".
@@ -7039,7 +7040,7 @@
 "hbsb4tENF" is used by "dvelimdfENF".
 "hbsb4tENF" is used by "hbabdENF".
 "hbsb4tENF" is used by "hbsbdENF".
-"hbsbc1fENF" is used by "hbcsb1f".
+"hbsbc1fENF" is used by "hbcsb1fENF".
 "hbsbc1fENF" is used by "hbsbc1ENF".
 "hbsbc1g2ENF" is used by "elrabsfENF".
 "hbsbc1gENF" is used by "hbcsb1gENF".
@@ -14220,7 +14221,7 @@ New usage of "ax172" is discouraged (0 uses).
 New usage of "ax17el" is discouraged (5 uses).
 New usage of "ax17eq" is discouraged (3 uses).
 New usage of "ax1cn" is discouraged (1 uses).
-New usage of "ax1ne0" is discouraged (1 uses).
+New usage of "ax1ne0" is discouraged (0 uses).
 New usage of "ax1rid" is discouraged (0 uses).
 New usage of "ax2" is discouraged (0 uses).
 New usage of "ax3" is discouraged (0 uses).
@@ -15722,6 +15723,9 @@ New usage of "ela" is discouraged (3 uses).
 New usage of "elab3gfENF" is discouraged (0 uses).
 New usage of "elabfENF" is discouraged (0 uses).
 New usage of "elabgfENF" is discouraged (2 uses).
+New usage of "elabs2OLD" is discouraged (2 uses).
+New usage of "elabsbcOLD" is discouraged (0 uses).
+New usage of "elabsgOLD" is discouraged (0 uses).
 New usage of "elat2" is discouraged (4 uses).
 New usage of "elatcv0" is discouraged (0 uses).
 New usage of "elbdop" is discouraged (4 uses).
@@ -19234,9 +19238,11 @@ Proof modification of "rusbcALT" is discouraged (77 steps).
 Proof modification of "sb5ALT" is discouraged (80 steps).
 Proof modification of "sb5ALTVD" is discouraged (110 steps).
 Proof modification of "sbc2or" is discouraged (134 steps).
+Proof modification of "sbc2orNSB" is discouraged (134 steps).
 Proof modification of "sbc3org" is discouraged (81 steps).
 Proof modification of "sbc3orgVD" is discouraged (176 steps).
 Proof modification of "sbc8g" is discouraged (37 steps).
+Proof modification of "sbc8gNSB" is discouraged (55 steps).
 Proof modification of "sbcbi" is discouraged (33 steps).
 Proof modification of "sbcbiVD" is discouraged (59 steps).
 Proof modification of "sbcim2g" is discouraged (83 steps).
@@ -19246,6 +19252,7 @@ Proof modification of "sbcoreleleqVD" is discouraged (127 steps).
 Proof modification of "sbcss" is discouraged (130 steps).
 Proof modification of "sbcssVD" is discouraged (223 steps).
 Proof modification of "sbmoOLD" is discouraged (5 steps).
+Proof modification of "sbsbcNSB" is discouraged (21 steps).
 Proof modification of "shmulclOLD" is discouraged (101 steps).
 Proof modification of "simplbi2VD" is discouraged (24 steps).
 Proof modification of "simplbi2comgVD" is discouraged (42 steps).
